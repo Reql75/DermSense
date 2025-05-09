@@ -1,4 +1,6 @@
 Skinora: AI-Powered Skin Condition Analysis
+![Skinora_Logo](https://github.com/user-attachments/assets/bc03da52-e3cf-46d3-9874-df66d1ca40cb)
+
 
 🔍 About Skinora
 Skinora is an AI-powered web application designed to help users identify common skin conditions and receive basic care recommendations. By leveraging computer vision and machine learning, DermSense analyzes skin images to detect conditions such as acne, eczema, psoriasis, and rosacea, providing educational information and general care guidance.
